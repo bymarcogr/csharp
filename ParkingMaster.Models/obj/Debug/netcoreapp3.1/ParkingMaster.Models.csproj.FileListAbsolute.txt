@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Models\bin\Debug\netcoreapp3.1\ParkingMaster.Models.deps.json
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Models\bin\Debug\netcoreapp3.1\ParkingMaster.Models.dll
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Models\bin\Debug\netcoreapp3.1\ParkingMaster.Models.pdb
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Models\obj\Debug\netcoreapp3.1\ParkingMaster.Models.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Models\obj\Debug\netcoreapp3.1\ParkingMaster.Models.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Models\obj\Debug\netcoreapp3.1\ParkingMaster.Models.AssemblyInfo.cs
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Models\obj\Debug\netcoreapp3.1\ParkingMaster.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Models\obj\Debug\netcoreapp3.1\ParkingMaster.Models.dll
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Models\obj\Debug\netcoreapp3.1\ParkingMaster.Models.pdb

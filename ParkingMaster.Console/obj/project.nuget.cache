@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ee6QNP9qzosdJV3rUc/9wX3TH7FYL1p3reTDRc6qI+H2lWFDtqFHM9Sz5HP5R8Sg6OHhfTGzm70p1uWRaUTQng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\ParkingMaster\\ParkingMaster.Console\\ParkingMaster.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}

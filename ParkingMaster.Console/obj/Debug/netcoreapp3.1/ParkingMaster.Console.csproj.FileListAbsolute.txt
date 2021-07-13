@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Console\obj\Debug\netcoreapp3.1\ParkingMaster.Console.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Console\obj\Debug\netcoreapp3.1\ParkingMaster.Console.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Console\obj\Debug\netcoreapp3.1\ParkingMaster.Console.AssemblyInfo.cs
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Console\obj\Debug\netcoreapp3.1\ParkingMaster.Console.csproj.CoreCompileInputs.cache

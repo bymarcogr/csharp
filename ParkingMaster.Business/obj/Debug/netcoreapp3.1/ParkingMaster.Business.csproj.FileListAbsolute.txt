@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Business\bin\Debug\netcoreapp3.1\ParkingMaster.Business.deps.json
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Business\bin\Debug\netcoreapp3.1\ParkingMaster.Business.dll
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Business\bin\Debug\netcoreapp3.1\ParkingMaster.Business.pdb
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Business\obj\Debug\netcoreapp3.1\ParkingMaster.Business.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Business\obj\Debug\netcoreapp3.1\ParkingMaster.Business.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Business\obj\Debug\netcoreapp3.1\ParkingMaster.Business.AssemblyInfo.cs
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Business\obj\Debug\netcoreapp3.1\ParkingMaster.Business.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Business\obj\Debug\netcoreapp3.1\ParkingMaster.Business.dll
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Business\obj\Debug\netcoreapp3.1\ParkingMaster.Business.pdb
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Business\bin\Debug\netcoreapp3.1\ParkingMaster.Models.dll
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Business\bin\Debug\netcoreapp3.1\ParkingMaster.Models.pdb
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Business\obj\Debug\netcoreapp3.1\ParkingMaster.Business.csproj.CopyComplete
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Business\bin\Debug\netcoreapp3.1\ParkingMaster.Utilities.dll
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Business\bin\Debug\netcoreapp3.1\ParkingMaster.Utilities.pdb

@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Management\bin\Debug\netcoreapp3.1\ParkingMaster.Management.deps.json
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Management\bin\Debug\netcoreapp3.1\ParkingMaster.Management.dll
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Management\bin\Debug\netcoreapp3.1\ParkingMaster.Management.pdb
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Management\obj\Debug\netcoreapp3.1\ParkingMaster.Management.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Management\obj\Debug\netcoreapp3.1\ParkingMaster.Management.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Management\obj\Debug\netcoreapp3.1\ParkingMaster.Management.AssemblyInfo.cs
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Management\obj\Debug\netcoreapp3.1\ParkingMaster.Management.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Management\obj\Debug\netcoreapp3.1\ParkingMaster.Management.dll
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Management\obj\Debug\netcoreapp3.1\ParkingMaster.Management.pdb
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Management\bin\Debug\netcoreapp3.1\ParkingMaster.Models.dll
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Management\bin\Debug\netcoreapp3.1\ParkingMaster.Utilities.dll
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Management\bin\Debug\netcoreapp3.1\ParkingMaster.Utilities.pdb
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Management\bin\Debug\netcoreapp3.1\ParkingMaster.Models.pdb
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Management\obj\Debug\netcoreapp3.1\ParkingMaster.Management.csproj.CopyComplete
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Management\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Management\bin\Debug\netcoreapp3.1\ParkingMaster.Business.dll
+C:\Users\user\source\repos\ParkingMaster\ParkingMaster.Management\bin\Debug\netcoreapp3.1\ParkingMaster.Business.pdb

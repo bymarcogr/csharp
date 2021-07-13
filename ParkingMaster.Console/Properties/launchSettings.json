@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "ParkingMaster.Console": {
+      "commandName": "Project"
+    }
+  }
+}

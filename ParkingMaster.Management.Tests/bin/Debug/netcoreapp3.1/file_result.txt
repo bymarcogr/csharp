@@ -1,0 +1,4 @@
+﻿Max cars: 3
+License plates at max: 12345,75486,75487
+Peak period: 3300 to 6500
+Peak duration: 3200
