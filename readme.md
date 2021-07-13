@@ -23,6 +23,8 @@ Below you will find al the projects contained in this solution.
 ### ParkingMaster.Management
 - Project in charge of dependency injection, where all the services are declares, if we move this app into an Web API, this is the main services
 
+- **appsettings.json** main configuration, it manages log name and location and load field rules, it uses regular expression to validate some of the rules automatically.
+
 ### ParkingMaster.Models
 -  General models using by all the projects
 
